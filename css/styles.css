@@ -187,7 +187,7 @@ img {
 }
 /* end region 1 */
 /* region 2 */
-.visually-hidden {
+.visually-hidden-1 {
   position: absolute;
   width: 1px;
   height: 1px;
