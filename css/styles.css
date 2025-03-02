@@ -794,7 +794,7 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.checkbox-visually-hidden + .style-label-div .style-span .checkbox + .style-label-div .style-span {
+.checkbox:checked + .style-label-div .style-span .checkbox + .style-label-div .style-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
