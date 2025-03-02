@@ -687,6 +687,7 @@ img {
 /*Style svg-div*/
 
 .style-svg-div {
+  fill: none;
   position: absolute;
   left: 16px;
   top: 50%;
@@ -768,10 +769,6 @@ img {
   border: none;
   fill: #f4f4fd;
 }
-
-/*.style-svg-span:focus {
-  fill: #4d5ae5;
-}*/
 
 .style-a-label {
   color: #4d5ae5;
