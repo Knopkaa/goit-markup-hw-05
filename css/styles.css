@@ -796,3 +796,9 @@ img {
 .style-svg-span:focus {
   fill: #4d5ae5;
 }
+
+.checkbox-visually-hidden + .style-label-div .style-span. {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
+}
