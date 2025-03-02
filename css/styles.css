@@ -769,6 +769,10 @@ img {
   fill: #f4f4fd;
 }
 
+.style-svg-span:focus {
+  fill: #4d5ae5;
+}
+
 .style-a-label {
   color: #4d5ae5;
   line-height: 1.33;
