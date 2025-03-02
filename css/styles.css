@@ -764,6 +764,11 @@ img {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
+  fill: #4d5ae5;
+}
+
+.style-svg-span:focus {
+  fill: #4d5ae5;
 }
 
 .style-a-label {
