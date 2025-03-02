@@ -687,7 +687,6 @@ img {
 /*Style svg-div*/
 
 .style-svg-div {
-  fill: none;
   position: absolute;
   left: 16px;
   top: 50%;
@@ -799,4 +798,16 @@ img {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
+}
+
+/* зміни кольору іконки при кліку на input в Email*/
+
+.style-div-input:focus + .style-svg-div,
+.style-div-input:hover + .style-svg-div {
+  fill: #4d5ae5;
+}
+
+.style-div-input:focus,
+.style-div-input:hover {
+  fill: #4d5ae5;
 }
