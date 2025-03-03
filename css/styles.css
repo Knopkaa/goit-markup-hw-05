@@ -815,3 +815,12 @@ img {
 .style-div-input:hover {
   fill: #4d5ae5;
 }
+.style-h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
